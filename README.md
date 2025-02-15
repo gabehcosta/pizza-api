@@ -1,6 +1,10 @@
 
 # API de Simulação de Pedidos de Pizzaria
 
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Este projeto é uma API em FastAPI que simula um sistema de pedidos de pizzaria, com o intuito de gerar dados sintéticos para serem usados em ETLs, análises de dados e na criação de dashboards. A API permite gerar pedidos aleatórios que contêm pizzas e bebidas, utilizando o Faker para gerar dados fictícios. Ela também oferece endpoints para acessar os pedidos gerados e obter informações detalhadas sobre eles.
 
 ## Funcionalidades
