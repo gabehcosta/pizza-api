@@ -1,0 +1,47 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.pizza_api_venv/
+
+# .env files
+.env
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Migrations
+migrations/
+
+# Python distribution files
+*.egg
+*.egg-info
+dist/
+build/
+
+# Logs
+*.log
+
+# Coverage reports
+.coverage
+.coverage.*
+nosetests.xml
+*.cover
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# FastAPI project
+instance/
+
+# Databases
+*.sqlite3
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
