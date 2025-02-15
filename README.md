@@ -51,7 +51,7 @@ GET /pedidos/{pedido_id}
 
 1. Clone este repositório:
    ```bash
-   git clone <URL do repositório>
+   git clone https://github.com/gabehcosta/pizza-api.git
    ```
 
 2. Instale as dependências:
